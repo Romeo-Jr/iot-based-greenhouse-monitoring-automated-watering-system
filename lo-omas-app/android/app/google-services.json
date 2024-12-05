@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626969661195",
+    "project_id": "lo-omas-monitoring",
+    "storage_bucket": "lo-omas-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626969661195:android:938f74341d77865fdc5c0e",
+        "android_client_info": {
+          "package_name": "com.example.lo_omas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZY5LX1bcThF-35UChoTSbVXrz1RB8UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+firebase/config/
+firebase/__pycache__/
+mqtt/__pycache__/
+logs/
+
+delete_records.py
+haha.py
